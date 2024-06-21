@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "com.oyl_client.app-merged_res-36:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.oyl_client.app-main-37:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.oyl_client.app-merged_res-36:/drawable-mdpi_src_assets_images_i_pay.png.flat",
+        "source": "com.oyl_client.app-res-29:/drawable-mdpi/src_assets_images_i_pay.png"
+    },
+    {
+        "merged": "com.oyl_client.app-merged_res-36:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.oyl_client.app-main-37:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.oyl_client.app-merged_res-36:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.oyl_client.app-main-37:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.oyl_client.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.oyl_client.app-main-37:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.oyl_client.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.oyl_client.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.oyl_client.app-merged_res-36:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.oyl_client.app-res-29:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.oyl_client.app-merged_res-36:/drawable-mdpi_src_assets_images_affirm.png.flat",
+        "source": "com.oyl_client.app-res-29:/drawable-mdpi/src_assets_images_affirm.png"
+    },
+    {
+        "merged": "com.oyl_client.app-merged_res-36:/drawable-mdpi_src_assets_images_bitpay.png.flat",
+        "source": "com.oyl_client.app-res-29:/drawable-mdpi/src_assets_images_bitpay.png"
+    },
+    {
+        "merged": "com.oyl_client.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.oyl_client.app-main-37:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.oyl_client.app-merged_res-36:/drawable-mdpi_src_assets_images_klarna.png.flat",
+        "source": "com.oyl_client.app-res-29:/drawable-mdpi/src_assets_images_klarna.png"
+    },
+    {
+        "merged": "com.oyl_client.app-merged_res-36:/drawable-mdpi_src_assets_images_stripe.png.flat",
+        "source": "com.oyl_client.app-res-29:/drawable-mdpi/src_assets_images_stripe.png"
+    },
+    {
+        "merged": "com.oyl_client.app-merged_res-36:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.oyl_client.app-main-37:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.oyl_client.app-merged_res-36:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.oyl_client.app-main-37:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.oyl_client.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.oyl_client.app-main-37:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.oyl_client.app-merged_res-36:/drawable-mdpi_src_assets_images_facebook.png.flat",
+        "source": "com.oyl_client.app-res-29:/drawable-mdpi/src_assets_images_facebook.png"
+    },
+    {
+        "merged": "com.oyl_client.app-merged_res-36:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.oyl_client.app-main-37:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.oyl_client.app-merged_res-36:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.oyl_client.app-main-37:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.oyl_client.app-merged_res-36:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.oyl_client.app-main-37:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.oyl_client.app-merged_res-36:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.oyl_client.app-res-29:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.oyl_client.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.oyl_client.app-main-37:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.oyl_client.app-merged_res-36:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.oyl_client.app-res-29:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.oyl_client.app-merged_res-36:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.oyl_client.app-main-37:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.oyl_client.app-merged_res-36:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.oyl_client.app-res-29:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.oyl_client.app-merged_res-36:/drawable-mdpi_src_assets_images_mandummy.png.flat",
+        "source": "com.oyl_client.app-res-29:/drawable-mdpi/src_assets_images_mandummy.png"
+    },
+    {
+        "merged": "com.oyl_client.app-merged_res-36:/drawable-mdpi_src_assets_images_background1.png.flat",
+        "source": "com.oyl_client.app-res-29:/drawable-mdpi/src_assets_images_background1.png"
+    },
+    {
+        "merged": "com.oyl_client.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.oyl_client.app-main-37:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.oyl_client.app-merged_res-36:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.oyl_client.app-main-37:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.oyl_client.app-merged_res-36:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.oyl_client.app-main-37:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.oyl_client.app-merged_res-36:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.oyl_client.app-res-29:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.oyl_client.app-merged_res-36:/drawable-mdpi_src_assets_images_oyl_logo_yellow.png.flat",
+        "source": "com.oyl_client.app-res-29:/drawable-mdpi/src_assets_images_oyl_logo_yellow.png"
+    },
+    {
+        "merged": "com.oyl_client.app-merged_res-36:/drawable-mdpi_src_assets_images_instagram.png.flat",
+        "source": "com.oyl_client.app-res-29:/drawable-mdpi/src_assets_images_instagram.png"
+    },
+    {
+        "merged": "com.oyl_client.app-merged_res-36:/drawable-mdpi_src_assets_images_a_pay.png.flat",
+        "source": "com.oyl_client.app-res-29:/drawable-mdpi/src_assets_images_a_pay.png"
+    },
+    {
+        "merged": "com.oyl_client.app-merged_res-36:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.oyl_client.app-res-29:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.oyl_client.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.oyl_client.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.oyl_client.app-merged_res-36:/drawable-mdpi_src_assets_images_thumbsup.png.flat",
+        "source": "com.oyl_client.app-res-29:/drawable-mdpi/src_assets_images_thumbsup.png"
+    },
+    {
+        "merged": "com.oyl_client.app-merged_res-36:/mipmap-ldpi_ic_launcher.png.flat",
+        "source": "com.oyl_client.app-main-37:/mipmap-ldpi/ic_launcher.png"
+    }
+]
